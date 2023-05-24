@@ -15,4 +15,4 @@ Step2.
 run deepfake_detection_train -> training the dataset from capture_img and output the model file.
 
 Step3.
-run model_play -> load model then input video to detect the video is fake or not. [0]: fake, [1]: real
+run model_play -> load model then input video to detect the video is fake or not. [0]: fake, [1]: real   
